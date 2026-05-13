@@ -1,0 +1,12 @@
+/*reseteo de estilos nativos*/
+
+*{
+    margin:auto;
+    padding:auto;
+
+}
+/*estils de body*/
+body{
+    font-family:arial;
+    background-color: aquamarine;
+}
